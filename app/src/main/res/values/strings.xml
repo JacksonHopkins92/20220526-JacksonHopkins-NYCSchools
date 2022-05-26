@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JPMCNewYorkSchools</string>
+        <string name="view_sat_scores">View SAT Scores</string>
+        <string name="school_does_not_have_sat_scores">School does not have SAT Scores</string>
+</resources>
